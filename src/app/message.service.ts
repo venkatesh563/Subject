@@ -13,6 +13,4 @@ this.Replymessage.next("Pattapu");
 this.Replymessage.next("Venky");
 this.Replymessage.next("Monkey");
   }
-
-
 }
