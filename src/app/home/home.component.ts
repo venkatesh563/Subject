@@ -27,6 +27,7 @@ ngOnInit()
     console.log('From 2nd sub:', msg);
   
     });
+    
 }
 }
 
